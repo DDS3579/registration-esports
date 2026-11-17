@@ -30,7 +30,7 @@
  *   - Free Fire Clash Squad : Rs. 500
  *   - Free Fire Battle Royale : Rs. 500
  *   - MLBB : Rs. 500
- *   - eFootball : Rs. 150
+ *   - eFootball : Rs. 250
  *
  * The fee UNIT (per player or per team) was not specified either, so it
  * is deliberately not displayed anywhere.
@@ -89,7 +89,7 @@ const FEST_CONFIG = {
     freeFireCS: { status: "confirmed", amount: 500 },
     freeFireBR: { status: "confirmed", amount: 500 },
     mlbb: { status: "confirmed", amount: 500 },
-    eFootball: { status: "confirmed", amount: 150 },
+    eFootball: { status: "confirmed", amount: 250 },
   },
 
   divisions: [
